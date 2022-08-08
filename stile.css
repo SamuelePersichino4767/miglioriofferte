@@ -1,0 +1,115 @@
+body
+{
+background-color: #ffe9a7;
+text-align: center;
+font-size: 35px;
+
+
+
+}
+
+#punteggio{
+border: 44px;
+border-collapse: collapse;
+
+}
+
+
+
+#menu_2{
+display: inline-block;
+border-color: black;
+border-width: 3px;
+border-style: solid;
+margin: 5px, 5px, 5px, 5px ;
+padding: 40px, 40px, 40px, 40px;
+}
+
+a:hover{
+font-weight: bolder;
+
+
+}
+
+table { 
+border-collapse: collapse;
+border-spacing: 0px;
+
+
+}
+
+
+table, th, td{
+padding: 5px;
+border: 3px solid black;
+
+
+
+}
+
+
+#xiaomi{
+color: black;
+font-size: 50px;
+font-weight: bolder;
+
+
+}
+
+#tab{
+color: black;
+font-size: 30;
+font-weight: 800;
+
+}
+
+.paragrafo1{
+
+font-style: italic;
+font-family: sans-serif;
+font-weight: bold;
+
+
+
+
+}
+
+.titolo{
+
+background-color: #7fb6ff;
+padding: 30px
+
+}
+
+.giu{
+font-size: 4px;
+
+}
+
+.footer{
+background-color: black;
+padding: 20px;
+padding-bottom: 40px;
+color: white;
+
+
+}
+
+.foto{
+width: 40px;
+height: 40px;
+
+
+
+
+}
+
+#attributii{
+font-size: 3px;
+text-align: right;
+color: white;
+
+
+
+}
+
