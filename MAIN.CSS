@@ -1,0 +1,50 @@
+body{
+background-color: rgb(133, 221, 255);
+}
+
+.laterale{
+background-color: white;
+padding: 60px;
+vertical-align: top
+
+}
+#bho{
+    float: right;
+    height: 2000px;
+width: 200px;
+
+}
+h1{
+font-size: 50px;
+font-family: cursive;
+text-align: center;
+font-weight: bolder;
+
+
+}
+
+p{
+
+text-align: center;
+font-family: cursive;
+text-align: center;
+font-size: 30px;
+font-weight: bold;
+
+
+}
+.distanza{
+padding-top: 80px;
+
+}
+
+.locanda{
+    
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+      
+height: 800px;
+width: 500px;
+padding: 80px;
+}
